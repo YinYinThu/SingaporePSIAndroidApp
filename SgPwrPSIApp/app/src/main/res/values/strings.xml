@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">SgPwrPSI</string>
+    <string name="title_activity_maps_with_psi">Map</string>
+
+    <!--Message Constant-->
+    <!--Check Internet Connection-->
+    <string name="internet_connection">There has 3G/Wifi.</string>
+    <string name="no_internet_connection">Please check your 3G/Wifi and try again.</string>
+
+   <!-- Check API statusCode-->
+    <string name="onfailure_404">Requested resource not found.</string>
+    <string name="onfailure_500">Something went wrong at server end.</string>
+    <string name="onfailure_not_404_500">No Connection to server.</string>
+
+    <!--Json Exception-->
+    <string name="json_exception_catch">Json Exception Error.</string>
+
+    <!--api_info-->
+    <string name="api_info_key">api_info</string>
+    <string name="status_key">status</string>
+    <string name="status_value">healthy</string>
+
+    <!--region_metadata-->
+    <string name="region_metadata_key">region_metadata</string>
+    <!--used for both key and value reference-->
+    <string name="national_value">national</string>
+
+    <string name="name_key">name</string>
+    <string name="south_key">south</string>
+    <string name="north_key">north</string>
+    <string name="east_key">east</string>
+    <string name="central_key">central</string>
+    <string name="west_key">west</string>
+    <!--label_location-->
+    <string name="label_location_key">label_location</string>
+    <string name="longitude_key">longitude</string>
+    <string name="latitude_key">latitude</string>
+
+    <!--items-->
+    <string name="items_key">items</string>
+    <string name="update_timestamp_key">update_timestamp</string>
+    <string name="timestamp_key">timestamp</string>
+    <string name="readings_key">readings</string>
+    <string name="psi_twenty_four_hourly_key">psi_twenty_four_hourly</string>
+    <string name="psi_three_hourly_key">psi_three_hourly</string>
+
+    <!--API Return Value-->
+    <string name="return_data_null">No Available Data.</string>
+
+    <string name="south_psi_value">south_psi</string>
+    <string name="north_psi_value">north_psi</string>
+    <string name="east_psi_value">east_psi</string>
+    <string name="central_psi_value">central_psi</string>
+    <string name="west_psi_value">west_psi</string>
+
+    <!--Show Psi data on Map-->
+    <string name="no_location_data">No Location data to show on Map.</string>
+
+</resources>
